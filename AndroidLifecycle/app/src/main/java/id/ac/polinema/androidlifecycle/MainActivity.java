@@ -11,4 +11,8 @@ public class MainActivity extends AppCompatActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 	}
+
+	// TODO: tambahkan callback onStart() di sini
+
+	// TODO: tambahkan callback onStop() di sini
 }
