@@ -1,0 +1,9 @@
+<resources>
+	<string name="app_name">Tebak Angka</string>
+	<string name="guess">Tebak</string>
+	<string name="reset">Reset</string>
+	<string name="input_hint">Tebak angka 1 - 100</string>
+	<string name="gt_answer">Tebakan anda terlalu besar!</string>
+	<string name="lt_answer">Tebakan anda terlalu kecil!</string>
+	<string name="right_answer">Tebakan anda benar!</string>
+</resources>
