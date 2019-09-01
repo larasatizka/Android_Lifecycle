@@ -14,5 +14,8 @@ public class MainActivity extends AppCompatActivity {
 
 	// TODO: tambahkan callback onStart() di sini
 
+
 	// TODO: tambahkan callback onStop() di sini
+
+	// TODO: lengkapi callback untuk onRestart() onResume() onPause() onDestroy()
 }
